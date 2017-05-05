@@ -1,0 +1,93 @@
+Sync your forked repo with a base repository (https://github.com/cursor-education/welcome-to-github)
+
+Go to your profile forked repo (https://github.com/your-username/welcome-to-github)
+Click on "new pull request", there're should NOT be any not pulled commits
+Click on "switching the base" link (you should be redirected to https://github.com/your-username/welcome-to-github/compare/master...cursor-education:master)
+There're should be a list of commits, that isn't synchronized with your repo
+Click on "Create new pull request" button
+Put the commit comment smth like "Merge with base"
+And click on green-submit button
+Your pull request to your repository will be submitted, but not applied yet.
+Click on "pull requests" on your repository (https://github.com/your-username/welcome-to-github/pulls)
+Click on title of your pull request
+Scroll page down, and click on "Merge pull request" & "Confirm merge"
+Now, check your repository (https://github.com/*/welcome-to-github)
+Check if you're a team member of school repo (2 points)
+
+go to https://github.com/orgs/cursor-education/people
+if you're in list - you're in a team!
+if you're NOT - via mail/chat ask the teacher/lead to add to school repo
+if you want - you can add a school logo into your profile (it will looks like - the "Organizations" section in https://github.com/itspoma page) - just change the "private" to "public" on above list opposite to your name in list
+result: link to your profile
+Create your personal directory on school shared repo (10 points)
+
+After you will update your personal forked repo, you need to push smth again
+Edit the "list-of-users.txt" and add your name
+Create your personal directory with your name & surname in "personal/" folder
+Your changes should looks like https://github.com/cursor-education/welcome-to-github/commit/2d1b805bba8575faf67315ba5a91b1bf70456818
+Commit your changes & create a pull request
+The video help you can found here - https://www.youtube.com/watch?v=bTaFAqJ6bjE
+result: link to your repo
+Play & finish all levels on GitHub.io training portal: (5 points)
+
+https://try.github.io/levels/1/challenges/1
+result: screenshot with results (the final page with total results)
+http://pcottle.github.io/learnGitBranching/ (5 points)
+
+"Main" > Introduction to Git Commits
+"Main" > Branching in Git
+"Remote" > Clone Intro
+"Remote" > Remote Branches
+"Remote" > Git Fetchin'
+"Remote" > Git Pullin'
+"Remote" > Faking Teamwork
+"Remote" > Git Pushin'
+result: screenshot with final result
+create your own "hello-world-github" repository over a GitHub site (5 points)
+
+push a text file with some content (length of text should be more than 100 chars)
+commit & push (!! don't forget about human readable commit comment)
+make changes in text file, commit & push
+result: link to repo
+install & set up the Git (5 points)
+
+download Git for your OS from https://git-scm.com/downloads
+the complete manual how to install Git for your OS located here
+open the command line
+Win: WND+R, write "cmd" and hit enter
+Mac: (google it - through "Services" or "Finder" or etc)
+Ubuntu: https://help.ubuntu.com/community/UsingTheTerminal
+check if Git is installed
+type "git --version"
+Read & configurate the Git
+Getting-Started-First-Time-Git-Setup
+play with console Git (20 points)
+
+Create an empty repo "hello-world-git" through GitHub
+Checkout this repo to your local PC
+http://cursor-education.github.io/version-control-system-introduction-with-git-n-github/#/13/1
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+Using "Finder" or "Windows File Manager" create few any files
+Check the status of repo & files
+http://cursor-education.github.io/version-control-system-introduction-with-git-n-github/#/14/2
+Commit them
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+http://cursor-education.github.io/version-control-system-introduction-with-git-n-github/#/14/1
+http://cursor-education.github.io/version-control-system-introduction-with-git-n-github/#/14/4
+Check the status again
+http://cursor-education.github.io/version-control-system-introduction-with-git-n-github/#/14/2
+Push them to your GitHub repo
+http://cursor-education.github.io/version-control-system-introduction-with-git-n-github/#/16/4
+An GitHub Pages shared page (10 points)
+
+Read about "GitHub static page hosting" on https://pages.github.com/
+Watch the complete tutorial - https://www.youtube.com/watch?v=ZVejLE8qtOI
+Create a new repository "testing-the-github-pages"
+Create an "gh-pages" branch
+Switch to & make it as default branch
+https://github.com/your-username/repo/settings/branches
+the "Default branch" section
+Commit & push any file (text, image, or any other)
+Check http://username.github.io/repository-name/
+result: link to github.io shared file
